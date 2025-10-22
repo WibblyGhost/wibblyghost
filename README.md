@@ -1,7 +1,3 @@
-<p align="left">
-  <img src="https://avatars.githubusercontent.com/u/47839859?s=400&u=53725fcc96668470dd0cdd025c319ce5592b310f&v=4" alt="Profile Picture" width="180" style="border-radius: 50%; overflow: hidden;">
-</p>
-
 <a href="http://www.linkedin.com/in/zach-sanson" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn - Zach Sanson" height="40">
 </a>

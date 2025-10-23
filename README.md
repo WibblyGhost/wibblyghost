@@ -22,11 +22,11 @@ I collaborate closely with developers to test and verify new features, maintain 
 </div>
 
 - **Python** – Daily driver; expert in automation, test systems, and scripting
+- **Gherkin/Cucumber** – Designing readable BDD-style test steps that bridge human-friendly procedures to backend automation, ensuring test clarity and direct code integration
 - **C++** – Code review, debugging, and minor development
 - **InfluxDB** – Storing and querying test result datasets
 - **Grafana** – Visualizing data from InfluxDB in custom dashboards
 - **Docker** – Creating, managing, and deploying containerized environments
-- **Gherkin/Cucumber** – Designing readable BDD-style test steps that bridge human-friendly procedures to backend automation, ensuring test clarity and direct code integration
 
 ### Favourite Projects
 

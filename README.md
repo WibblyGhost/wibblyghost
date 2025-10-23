@@ -8,6 +8,8 @@ I'm an Automated Test Engineer at Tait Communications, specializing in creating 
 
 I collaborate closely with developers to test and verify new features, maintain and upgrade software packages, and ensure our systems conform to evolving standards. My work often involves simulating complex radio networks and automating test processes to enhance product reliability.
 
+<img src=https://github.com/user-attachments/assets/eda6ee71-e92e-4b3d-a0aa-c862d67d3d05 alt="radios" width="45%"/>
+
 ### Top Skills
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>

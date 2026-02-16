@@ -34,12 +34,12 @@ I collaborate closely with developers to test and verify new features, maintain 
   The layout was crafted using [ErgoGen](https://ergogen.cache.works/) in JavaScript, enabling customized ergonomic positioning. The PCB was designed as a multi-layer board, featuring complex circuitry for tight component placement and integrated addressable RGB lighting. I developed 3D-printed case designs in CAD, emphasizing tight tolerances and compactness, and iterated on several prototypes for optimal fit. Firmware was built from scratch using QMK in C, allowing for advanced key mapping and lighting control.  
   _See project README for further details on layout, PCB, case prototyping, and firmware._
 
+- [**BitStructures**](https://github.com/WibblyGhost/BitStructures) A Python library that helps define decoding and encoding structure patterns for parsing and building bit streams. This tool simplifies working with low-level packet designs by allowing you to specify complex bit-level structures declaratively, making bit-level encoding/decoding intuitive and maintainable.
+ 
 - [**Solar Logger**](https://github.com/WibblyGhost/solar_logger): Multi-stage IoT solution for logging and visualizing solar power data.  
   The system interfaces with an Outback solar controller, subscribing to an MQTT backend that streams real-time statistics such as battery status and input voltages. Incoming MQTT data, broadcast as raw byte streams, is deciphered into human-readable values before being converted into time series data points. These points are then inserted into an InfluxDB instance, enabling efficient storage, modeling, and querying of historical solar data.  
   The application architecture is multi-threaded: one thread listens and processes MQTT packets while another uploads parsed data to InfluxDB, with queues facilitating communication between them. This ensures reliable, concurrent handling of data streams and database updates. The stored data is visualized via a private Grafana dashboard, providing detailed graphs and analytics for monitoring and comparison.  
   _See project README for architecture, hardware, and software insights._
-
-- [**BitStructures**](https://github.com/WibblyGhost/BitStructures) (WIP): A Python library for defining structural codecs, making it easier to encode and decode packet designs at the bit level rather than byte level.
 
 ---
 

@@ -35,6 +35,8 @@ I collaborate closely with developers to test and verify new features, maintain 
   _See project README for further details on layout, PCB, case prototyping, and firmware._
 
 - [**BitStructures**](https://github.com/WibblyGhost/BitStructures) A Python library that helps define decoding and encoding structure patterns for parsing and building bit streams. This tool simplifies working with low-level packet designs by allowing you to specify complex bit-level structures declaratively, making bit-level encoding/decoding intuitive and maintainable.
+
+- [**BinaryCorrectionCodes**](https://github.com/WibblyGhost/BinaryCorrectionCodes): A compact toolkit for working with binary error-correcting codes. The project implements core building blocks for encoding, decoding, and analyzing codewords, focusing on practical algorithms for detecting and correcting bit-level errors. Designed to be easy to extend, it keeps the workflow modular so you can experiment with different code structures, inspect intermediate decoding steps, and use the results as a foundation for additional correction strategies—see the repo README for the exact code families and usage details.
  
 - [**Solar Logger**](https://github.com/WibblyGhost/solar_logger): Multi-stage IoT solution for logging and visualizing solar power data.  
   The system interfaces with an Outback solar controller, subscribing to an MQTT backend that streams real-time statistics such as battery status and input voltages. Incoming MQTT data, broadcast as raw byte streams, is deciphered into human-readable values before being converted into time series data points. These points are then inserted into an InfluxDB instance, enabling efficient storage, modeling, and querying of historical solar data.  
